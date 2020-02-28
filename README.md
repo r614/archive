@@ -3,7 +3,7 @@ List of all the projects I have worked on so far!
 [Current Resume](https://docs.google.com/document/d/19CmidkIFOCw47pHSw7G0jXIKaB4kzFZiZvaDvekTawE/edit?usp=sharing)
 ## 2020
 * C.A.R.A 
-  - Top 3 in Canada for Microsoft x Agorize Sustainable AI Competition
+  - **Top 3 in Canada for Microsoft x Agorize Sustainable AI Competition**
   - Speech Analysis Engine and Android App built using Flask, Tensorflow, Java and Azure. 
   - Developed the Speech Analysis API and Backend server using Python, Flask, Tensorflow.
   - Also deployed app on Azure. 
@@ -18,12 +18,12 @@ List of all the projects I have worked on so far!
   
 ## 2019
 * [NDA] Project
-  - 1st Place at Deloitte x HSBC ThinkTech Hackathon.
+  - **1st Place at Deloitte x HSBC ThinkTech Hackathon.**
   - Full-stack prototype using NodeJS, React and OpenBanking. 
   - Developed the microservices architecture and backend integration with OpenBanking API. 
   
 * Slappa
-  - Top 8 class project for CPEN 321 - Software Engineering.
+  - **Top 8 class project for CPEN 321 - Software Engineering.**
   - Developed a full-stack social app based on the Microservices Framework and Agile development methodology.
   - Tech Stack: Android, NodeJS, MongoDB, Heroku, TravisCI
   - Developed MongoDB NoSQL models, NodeJS controllers and APIs from scratch. Wrote tests in Jest 
@@ -36,7 +36,7 @@ List of all the projects I have worked on so far!
   - Resulting python library allows users to install and manage multiple versions of R, similar to venv in Python. 
 
 * ParkInsight
-  - Top 25, Microsoft Discover AI Hackathon
+  - **Top 25, Microsoft Discover AI Hackathon**
   - Mobile app to analyze patient movement and predict, track Parkinson's scores.
   - Developed using Android, Flask, Tensorflow and Azure.
   - Developed parts of the Android and Flask backends.

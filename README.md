@@ -13,7 +13,7 @@ List of all the projects I have worked on so far!
   - Wrote algorithms for image analysis, API communications with Angular frontend as well as BestBuy developer API. 
   - Developed backend in Flask and Python. 
 
-* Porfolio Website
+* [Porfolio Website](r614.github.io)
   - Developing my portfolio website in Gatsby - React, GraphQL. 
   
 ## 2019
@@ -30,18 +30,18 @@ List of all the projects I have worked on so far!
   - Was also responsible for deploying the server to Heroku and configuring TravisCI for continuous CI/CD. 
   - Integrated Google Firebase for Push notifications, Google OAuth2 for login.
 
-* beRi Virtual Environments for R 
+* [beRi Virtual Environments for R (renv)](https://github.com/datasnakes/renv) 
   - Project for HackSeq 2019
   - Ported child libraries renv and rinse to MacOS (previously only on Linux) using Python and bash.
   - Resulting python library allows users to install and manage multiple versions of R, similar to venv in Python. 
 
-* ParkInsight
+* [ParkInsight](https://github.com/parkinsight/parkinsight)
   - **Top 25, Microsoft Discover AI Hackathon**
   - Mobile app to analyze patient movement and predict, track Parkinson's scores.
   - Developed using Android, Flask, Tensorflow and Azure.
   - Developed parts of the Android and Flask backends.
-  
-* Mimic
+
+* [Mimic](https://github.com/ubclaunchpad/mimic)
   - Python text-generation library developed at UBC Launchpad. 
   - Developed the Markov Chain Model in native Python. 
   - Also responsible for Docker and OpenAI GPT-2 Integration. 
@@ -55,27 +55,31 @@ List of all the projects I have worked on so far!
   - Webapp for tracking CO2 emissions using Transaction data built at DubHacks2019
   - Developed the regression ML model, Flask backend API, deployed on Heroku using Python. 
 
-* CredibleClients
+* [CredibleClients](https://github.com/r614/credible-clients)
   - Machine Learning exploration for UBC Launchpad application
   - Built and tested 4 different ML models (Gradient Boosting, Random forest, Adaboost and Catboost) for credit card payment data from the UCI ML repository. 
   - Explained thought-process and initial exploration in a writeup. 
 
-* PokeBlocks
+* [PokeBlocks](https://github.com/r614/PokeBlocks)
   - Project in Native Python 
   - Pokemon collector game backend built to understand the basics of Blockchain. 
 
+* [Google Summer of Code Application - CERN](https://github.com/r614/gsoc_eval)
+  - Project in Python 
+  - Library to process .HDF files to generate images from pixel data using NumPy, SciPy, and MatplotLib. 
+
 # 2018
 
-* AccessibleMouse
+* [AccessibleMouse](https://github.com/r614/AccessibleMouse)
   - Built an accessible input device for Local Hack Day 2019
   - Uses an Arduino, and pressure sensor for different input actions.
   - Developed the Arduino functions for Pressure sensor. 
 
-* Twitter Scraper/Sentiment Analysis
+* [Twitter Scraper/Sentiment Analysis](https://github.com/r614/sentiment-analysis-ui)
   - Developed a web scraper to scrape tweets and analyze them using Azure's sentiment analysis model.
   - Used to practice OOP and API integration.
   
-* ESEA Glicko Rating System
+* [ESEA Glicko Rating System](https://github.com/r614/Glicko-Rating-System-ESEA)
   - Developed a webscraper and rating system using Python, BeautifulSoup and Pandas.
   - Scrapes the ESEA website for current match leaderboards.
   - Recalculates rankings based on the Glicko-3 Rating System.

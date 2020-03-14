@@ -13,7 +13,7 @@ List of all the projects I have worked on so far!
   - Wrote algorithms for image analysis, API communications with Angular frontend as well as BestBuy developer API. 
   - Developed backend in Flask and Python. 
 
-* [Porfolio Website](r614.github.io)
+* [Porfolio Website](www.r614.github.io)
   - Developing my portfolio website in Gatsby - React, GraphQL. 
   
 ## 2019

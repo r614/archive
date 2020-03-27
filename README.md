@@ -36,7 +36,7 @@ List of all the projects I have worked on so far!
   - Resulting python library allows users to install and manage multiple versions of R, similar to venv in Python. 
 
 * [ParkInsight](https://github.com/parkinsight/parkinsight)
-  - **Top 25, Microsoft Discover AI Hackathon**
+  - **Top 25 in Canada, Microsoft Discover AI Hackathon**
   - Mobile app to analyze patient movement and predict, track Parkinson's scores.
   - Developed using Android, Flask, Tensorflow and Azure.
   - Developed parts of the Android and Flask backends.

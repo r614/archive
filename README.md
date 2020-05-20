@@ -1,6 +1,6 @@
 # archive
 List of all the projects I have worked on so far!  
-[Current Resume](https://docs.google.com/document/d/19CmidkIFOCw47pHSw7G0jXIKaB4kzFZiZvaDvekTawE/edit?usp=sharing)
+[Current Resume](https://drive.google.com/file/d/1ovQ-d744U8ZSHQDGXoDsPtVsdSM7V1dc/view?usp=sharing)
 ## 2020
 * C.A.R.A 
   - **Top 3 in Canada for Microsoft x Agorize Sustainable AI Competition**

@@ -3,8 +3,8 @@ List of all the projects I have worked on so far!
 [Current Resume](https://drive.google.com/file/d/1ovQ-d744U8ZSHQDGXoDsPtVsdSM7V1dc/view?usp=sharing)
 ## 2020
 * C.A.R.A 
-  - **Top 3 in Canada for Microsoft x Agorize Sustainable AI Competition**
-  - Speech Analysis Engine and Android App built using Flask, Tensorflow, Java and Azure. 
+  - **1st Place at Microsoft x Agorize Sustainable AI Competition**
+  - Speech Analysis Engine and Android App built using Flask, Tensorflow, Java (Android) and Azure. 
   - Developed the Speech Analysis API and Backend server using Python, Flask, Tensorflow.
   - Also deployed app on Azure. 
   

@@ -1,7 +1,13 @@
 # archive
 List of all the projects I have worked on so far!  
-[Current Resume](https://drive.google.com/file/d/1ovQ-d744U8ZSHQDGXoDsPtVsdSM7V1dc/view?usp=sharing)
+[Current Resume](https://docs.google.com/document/d/19CmidkIFOCw47pHSw7G0jXIKaB4kzFZiZvaDvekTawE/edit?usp=sharing)
 ## 2020
+* [XPayments](https://devpost.com/software/xpayments-me)
+  - Developed for the PayID Hackathon
+  - Crypto Invoicing and Payment app built using NodeJS, MongoDB, and Vue. 
+  - Developed the Node API and Backend server using Express, Mongoose, Axios and Xpring.
+  - Also deployed app on Heroku. 
+
 * C.A.R.A 
   - **1st Place at Microsoft x Agorize Sustainable AI Competition**
   - Speech Analysis Engine and Android App built using Flask, Tensorflow, Java (Android) and Azure. 

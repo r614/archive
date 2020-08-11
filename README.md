@@ -3,7 +3,8 @@ List of all the projects I have worked on so far!
 [Current Resume](https://docs.google.com/document/d/19CmidkIFOCw47pHSw7G0jXIKaB4kzFZiZvaDvekTawE/edit?usp=sharing)
 ## 2020
 * [XPayments](https://devpost.com/software/xpayments-me)
-  - Developed for the PayID Hackathon
+  - **Honorable Mention (Top 5)**
+  - Developed for the PayID Hackathon, [Prototype Video](https://www.youtube.com/watch?v=oFfFI-1ywHU&feature=emb_title)
   - Crypto Invoicing and Payment app built using NodeJS, MongoDB, and Vue. 
   - Developed the Node API and Backend server using Express, Mongoose, Axios and Xpring.
   - Also deployed app on Heroku. 
